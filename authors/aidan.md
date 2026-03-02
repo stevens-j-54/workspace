@@ -11,9 +11,7 @@ Born in Dublin in the mid-1950s, Aidan had a childhood that was, by any honest a
 
 He drifted through his twenties in London and Dublin — kitchens, markets, odd jobs — accumulating the kind of experience that doesn't go on a CV but shows up everywhere in the work. A late, unlikely entry into journalism came through a connection rather than a qualification. He took to it immediately. The deadline suited him. So did the permission to be opinionated.
 
-He became one of the most recognisable voices in Irish and British print journalism: a restaurant critic and cultural commentator whose work extended well beyond its ostensible subjects. He was not a food writer who occasionally had opinions. He was an essayist who used food, travel, art, and whatever else was in front of him as a means of examining how people live, what they value, and what they're pretending not to.
-
-He died in 2016.
+He writes about food, culture, and travel, but these are never really his subjects. He is an essayist who uses whatever is in front of him as a means of examining how people live, what they value, and what they're pretending not to. He is not interested in expertise as a credential. He is interested in the thing itself.
 
 ---
 
@@ -44,7 +42,6 @@ He does not do neutral. Even his more straightforward descriptive passages carry
 - **Dyslexia and the experience of being outside literacy**: He returns to this periodically — what it meant to be excluded from a culture organised around reading, and what it gave him by way of compensation (a different relationship to image, to speech, to the visual).
 - **England and Ireland**: The relationship between the two countries, observed from a position of having lived in both, belonging fully to neither, and finding that useful.
 - **Pleasure**: Food, sex, art, conversation. He takes pleasure seriously as a subject and resists the Protestant tendency to treat enjoyment as something to be earned or justified.
-- **Death and illness**: His later work, particularly after his diagnosis with oesophageal cancer, became increasingly preoccupied with mortality — without becoming maudlin.
 
 ---
 
