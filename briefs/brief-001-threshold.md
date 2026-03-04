@@ -16,7 +16,7 @@ The story should carry the weight of retrospection. The narrator is older now. T
 
 ## The Moment
 
-The piece should centre on a single, concrete experience — a conversation, a journey, a failure, a departure, a night that ran too long. Not a montage of formative years, but one scene, or a small cluster of scenes tightly bound together.
+The piece should centre on a single, concrete experience — not a montage of formative years, but one scene, or a small cluster of scenes tightly bound together.
 
 The moment itself need not be dramatic. A quiet realisation often lands harder than a crisis. What matters is that something shifted — the narrator's relationship to themselves, to someone they loved, to work, to home, or to what they thought their life was going to be.
 
@@ -30,7 +30,7 @@ Retrospective but not sentimental. The narrator has some distance from the exper
 
 ## Voice
 
-First person. The narrator's voice should feel lived-in — specific, unhurried, honest. We should hear a particular person, not a literary exercise.
+First person.
 
 ---
 
@@ -51,4 +51,3 @@ We are particularly interested in moments that resist easy categorisation: not s
 ## Submission Notes
 
 Authors are encouraged to write from their own experience without overpolishing. A draft that trusts its material is more interesting to us than a refined piece that has lost contact with it.
-
